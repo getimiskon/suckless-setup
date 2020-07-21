@@ -1,2 +1,2 @@
 # suckless-setup
-The files for my personal suckless setup
+My personal suckless configs
