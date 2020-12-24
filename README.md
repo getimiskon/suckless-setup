@@ -46,7 +46,11 @@ To fix this issue, open the `config.h` file of dwm and change the `tags_mask` va
 ## Useful Links
 
 [suckless.org](https://suckless.org)
+
 [dwm](https://dwm.suckless.org)
+
 [dmenu](https://tools.suckless.org/dmenu)
+
 [st](https://st.suckless.org)
+
 [suckless programs hacking](https://suckless.org/hacking)
